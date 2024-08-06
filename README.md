@@ -1,3 +1,6 @@
+https://github.com/user-attachments/assets/344031c5-e30a-4d61-afa1-5444052af2b7
+
+
 # Laravel CRUD with AJAX
 
 This repository showcases a Laravel-based application demonstrating CRUD (Create, Read, Update, Delete) operations seamlessly integrated with AJAX for a dynamic and responsive user experience. This project exemplifies modern web development practices by combining the robustness of Laravel with the interactivity of AJAX, resulting in a highly efficient and user-friendly application.
